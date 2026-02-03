@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Valentine Message</title>
+  <style>
+    body {
+      background-color: pink;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: Arial, sans-serif;
+    }
+
+    .box {
+      background-color: white;
+      padding: 30px;
+      border-radius: 20px;
+      text-align: center;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    }
+
+    h1 {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="box">
+    <h1>❤️ Kan Dawt Tuk Bik Pg Muh Chel ❤️</h1>
+    <p>Happy Valentine’s Day</p>
+  </div>
+
+</body>
+</html>
